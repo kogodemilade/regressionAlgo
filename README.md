@@ -1,0 +1,1 @@
+The code in main.py is for google stock prices, while main2.py is for Bitcoin prices. Both uses Linear regression algorithms, and reach accuracies up to 95% woth shorter horizons (prediction periods) and up to 99% with very short horizons (~4 days).
